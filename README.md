@@ -1,6 +1,11 @@
 # ProMiner
 
 ## How to start up the machine and mining.
+ 
+Plug in:
+*Ethernet Cable
+*HDMI
+*220/110v Power cable to power supply unit. 
 
 
 ## Default account settings
