@@ -3,7 +3,9 @@
 Note we are working on this, and if you want to see our miner, please visit https://umine.io
 
 ## How to start up the machine for the first time.
-Assuming you have installed all the GPUs and internal cables.Plug in:
+Assuming you have installed all the GPUs and internal cables.
+
+Plug in:
 
 * Ethernet Cable
 * HDMI (only when setup)
