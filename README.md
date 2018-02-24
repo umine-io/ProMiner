@@ -1,12 +1,15 @@
 # ProMiner
 
+## How to start up the machine and mining.
+
+
 ## Default account settings
 
-The default user is umine, and password is novotech. Root user is disabled, but you can use sudo command instead.
+The default user is `umine`, and password is `novotech`. `root` user is not setup, but you can use sudo command instead.
 
-## How to enter R/W mode on UMine system (base on Ubuntu 16.04)
+## How to enter R/W mode on U mine system (base on Ubuntu 16.04)
 
-This system is protected by default. You cannot do write operation on system partition. You need to do the following step to remove protection temporarily.
+This system by default has a ram overlay filesystem on top of ext4. Your writes will be lost if rebooted. You need to do the following step to disable protection temporarily.
 
 Startup the machine, the boot menu should be like this.
 
