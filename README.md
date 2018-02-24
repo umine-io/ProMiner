@@ -5,6 +5,8 @@ Note we are working on this, and if you want to see our miner, please visit http
 ## How to start up the machine for the first time.
 Assuming you have installed all the GPUs and internal cables.
 
+![Image](images/umine_evga10cards.jpeg)
+
 Plug in:
 
 * Ethernet Cable
