@@ -50,6 +50,15 @@ nvidia-smi
 lspci | grep -i amd
 ```
 
+## U mine Linux mining porgram init process
+
+### /etc/rc.local
+Here we start `/opt/umine_linux/start.sh`
+
+### /home/umine/.config/autostart
+Here we start `byobu` session to enable view is print into the Desktop.
+
+
 ## ADVANCED TOPIC: Default linux user account 
 
 The default user is `umine`, and password is `novotech`. `root` user is not setup, but you can use sudo command instead.
