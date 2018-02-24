@@ -1,4 +1,6 @@
-# U mine Pro Miner
+# U mine Pro Miner User's Manual
+
+Note we are working on this, and if you want to see our miner, please visit https://umine.io
 
 ## How to start up the machine for the first time.
 Assuming you have installed all the GPUs and internal cables.Plug in:
@@ -24,7 +26,11 @@ double click `customminer.sh` on the desktop, change... and hit 'save' and reboo
 ### Overclocking your nvidia GPUs
 double click `custom_oc.sh` on the desktop, change... and hit 'save' and reboot the system by click reboot button in xubuntu top left menu.
 
+## Normal Working Condition
+* Only Power and Ethernet is required
+* -10c~30c Room temperature  
 
+For powerful GPUs, we recommand some air flow for the machine, either use 12cm fan installed on the back of the rig or setup some air flow in the room.
 
 ## Diagnose
 
