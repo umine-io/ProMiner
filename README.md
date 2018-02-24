@@ -10,7 +10,7 @@ Assuming you have installed all the GPUs and internal cables.
 Plug in:
 
 * Ethernet Cable
-* HDMI (only when setup)
+* HDMI (to the CPU Motherboard)
 * 220/110v Power cable to power supply unit.
 * Mouse and Keyboard (only when setup)
 
