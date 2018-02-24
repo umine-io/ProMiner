@@ -32,6 +32,8 @@ double click `custom_oc.sh` on the desktop, change... and hit 'save' and reboot 
 
 For powerful GPUs, we recommand some air flow for the machine, either use 12cm fan installed on the back of the rig or setup some air flow in the room.
 
+The GPUs should report its temperature around 60c~85c.
+
 ## Diagnose
 
 ### Network Connections
