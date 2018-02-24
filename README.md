@@ -32,20 +32,23 @@ double click `custom_oc.sh` on the desktop, change... and hit 'save' and reboot 
 When powered up in to Linux, the OS will run DHCP client the accquire an IP address.
 
 If error message shows "waiting for mining session", there is some commands you can use:
-
- `ifconfig eth0`
- `route -n`
- `ping google.com`
+```
+ifconfig eth0
+route -n
+ping google.com
+```
 
 ### GPUs
 
 #### Commands for NVIDIA Cards
-
-`lspci | grep -i nvidia`
-`nvidia-smi`
- 
+```
+lspci | grep -i nvidia
+nvidia-smi
+```
 ### Commands for AMD Cards
- `lspci | grep -i amd`
+```
+lspci | grep -i amd
+```
 
 ## ADVANCED TOPIC: Default linux user account 
 
