@@ -39,6 +39,7 @@ For powerful GPUs, we recommand some air flow for the machine, either use 12cm f
 The GPUs should report its temperature around 60c~85c.
 
 ## Diagnose
+Use `Ctrl+t` to bring up a command terminal.
 
 ### Network Connections
 When powered up in to Linux, the OS will run DHCP client the accquire an IP address.
