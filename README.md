@@ -58,10 +58,15 @@ ping google.com
 lspci | grep -i nvidia
 nvidia-smi
 ```
-### Commands for AMD Cards
+#### Commands for AMD Cards
 ```
 lspci | grep -i amd
 clinfo
+```
+
+### Miner Process(es)
+```
+ps aux | grep eth
 ```
 
 ## U mine Linux mining program init process
@@ -104,7 +109,7 @@ Startup the machine, the boot menu should be like this.
 
 The first item is protected mode, the second one is unprotected writable mode. You can do write operation on system partition by booting from this item until shutdown. Notice that in this mode system will not be protected from power failure, you should do normal shutting down, by using `poweroff` command or power off button on GUI.
 
-## How to determine the protection mode on the system
+### How to determine the protection mode on the system
 
 When root partition (/) is mounted on `/dev/sda2`, the system is on writable (unprotected) mode. In this mode, you should do normal shutdown process to prevent data loss.
 
