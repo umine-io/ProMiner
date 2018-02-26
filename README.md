@@ -22,13 +22,13 @@ The mining session screen should appear after several seconds when Linux Desktop
 Now you can hit close the window and:
 
 ### Change default wallet address
-Double click `Wallet Config` on the desktop. Set line EWAL="(Your wallet)", ethereum or z-cash wallet address is supported. If you want to use other pool server, set line EPOOL="(Pool server)" (if this line does not exist, add it as a new line). Worker number can also be set by line EWORKER="(Your worker number)" (if this line does not exist, add it as a new line), don't set EWORKER if you don't want to use it. Then click 'save' and reboot the system by click reboot button in xubuntu top left menu.
+Double click `Wallet Config` on the desktop. Set line `EWAL="(Your wallet)"`, ethereum or z-cash wallet address is supported. If you want to use other pool server, set line `EPOOL="(Pool server)"` (if this line does not exist, add it as a new line). Worker number can also be set by line `EWORKER="(Your worker number)"` (if this line does not exist, add it as a new line), don't set `EWORKER` if you don't want to use it. Then click 'save' and reboot the system by click reboot button in xubuntu top left menu.
 
 ### Change to your own mining script
-double click `Custom Miner Script` on the desktop. Write your own mining script inside, and don't forget to change CUSTOMMINER="0" to CUSTOMMINER="1". There are some example lines inside. Click 'save' and reboot the system by click reboot button in xubuntu top left menu
+double click `Custom Miner Script` on the desktop. Write your own mining script inside, and don't forget to change `CUSTOMMINER="0"` to `CUSTOMMINER="1"`. There are some example lines inside. Click 'save' and reboot the system by click reboot button in xubuntu top left menu
 
 ### Overclocking your nvidia GPUs
-double click `Custom OC Script` on the desktop. Write your own overclock script inside, and don't forget to change CUSTOMOC="0" to CUSTOMOC="1". There are some example lines inside. Click 'save' and reboot the system by click reboot button in xubuntu top left menu.
+double click `Custom OC Script` on the desktop. Write your own overclock script inside, and don't forget to change `CUSTOMOC="0"` to `CUSTOMOC="1"`. There are some example lines inside. Click 'save' and reboot the system by click reboot button in xubuntu top left menu.
 
 ## Normal Working Condition
 * Only Power and Ethernet is required
