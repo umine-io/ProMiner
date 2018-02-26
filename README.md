@@ -2,6 +2,10 @@
 
 Note we are working on this, and if you want to see our miner, please visit https://umine.io
 
+For how to setup your hardware, please read [Motherboard_um.md](Motherboard_um.md)
+
+For what are hashrate you will be getting, please read [GPU_Hashrates.md](GPU_Hashrates.md)
+
 ## How to start up the machine for the first time.
 Assuming you have installed all the GPUs and internal cables.
 
