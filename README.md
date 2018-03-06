@@ -88,7 +88,7 @@ Script `/opt/umine_linux/hwwd.sh` will use USB serial watchdog `/dev/ttyUSB0`. I
 The default user is `umine`, and password is `novotech`. `root` user is not setup, but you can use sudo command instead.
 
 ## Recovery disk from USB disk
-You need a 16GB or larger USB disk to setup the image. You can download the recovery image from our offical website.
+You need a 16GB or larger USB disk to setup the image. You can download the recovery image from our offical website [http://dl.umine.io/images/miner2-usblive-20180301.img.gz].
 
 On Linux, use commands below to write image to your USB disk (WARNING: the data on the USB disk will be overwritten!)
 ```
