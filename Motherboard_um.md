@@ -9,3 +9,4 @@
 # KNOWN ISSUES
 ### 1. The motherboard can not boot up normally with HDMI in WIN7 OS. 
     Notes: WIN7 Drivers not support for B250 Chipset well 
+    Solution:Plug in HDMI after the board boot up
