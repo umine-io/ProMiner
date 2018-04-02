@@ -27,3 +27,6 @@ Notes:
 ### 工具下载链接
 *链接：https://pan.baidu.com/s/1V6_Xg9lFZpQT8Jw6btjhKQ 
 密码：04lp*
+### 560D BIOS下载链接
+*链接：https://pan.baidu.com/s/1XTErxZVzHBuu-JFvF5ODxA 
+密码：icxz*
