@@ -4,7 +4,7 @@
 
 #Step 2.
 
-##unzip the file and rename the folder name to 'calymore'.
+##unzip the file and rename the folder name to 'claymore'.
 
 #Step 3.
 
