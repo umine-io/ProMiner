@@ -1,19 +1,23 @@
 # Step 1.
 
-## Download updated claymore version from github.com.
+## select the 2nd item from the boot menu
 
 # Step 2.
 
-## unzip the file and rename the folder name to 'claymore'.
+## Download updated claymore version from github.com.
 
 # Step 3.
 
-## allow the file 'ethdcrminer64' run as a program.
+## unzip the file and rename the folder name to 'claymore'.
 
 # Step 4.
 
-## copy the folder 'claymore' to the path '/home/umine/mining/'.
+## allow the file 'ethdcrminer64' run as a program.
 
 # Step 5.
+
+## copy the folder 'claymore' to the path '/home/umine/mining/'.
+
+# Step 6.
 
 ## reboot
