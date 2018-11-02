@@ -18,6 +18,9 @@ Plug in:
 * 220/110v Power cable to power supply unit.
 * Mouse and Keyboard (only when setup)
 
+### For NVIDIA RTX graphic cards users 
+RTX cards need Gen3 PCI-E port to work. So you should setup PCI-E port modes in BIOS, press DEL key at startup to start BIOS configuration. Then jump to Chipset -> System Agent Configuration -> PEG Port Configuration, set all Max Link Speed items to Gen3. Then save changes and reboot.
+
 The rig should boot up automatically into BIOS loader, and boot up screen should have U mine logo displayed. And it should 
 go to linux system automatically.
 
